@@ -1,0 +1,14 @@
+body{
+    background: oldlace;
+}
+td {
+    text-align: left;
+    padding: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+th{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
